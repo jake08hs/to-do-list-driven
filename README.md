@@ -7,4 +7,4 @@ Este é um projeto de uma aplicação de **To-Do List** (Lista de Tarefas) desen
 - **Adicionar Tarefas**
 - **Marcar Tarefas Como Concluídas**
 - **Remover Tarefas**
-- **Responsividade**
+
